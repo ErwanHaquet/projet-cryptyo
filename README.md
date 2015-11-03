@@ -13,7 +13,7 @@ Pour décrypter le message, nous avons prévu d'envoyer un mail avec un sel (mot
 
 ##Installation
 
-######Requis / Require :
+#####Requis / Require :
 
 * [Installer composer](https://getcomposer.org/download/)
 
@@ -24,7 +24,7 @@ $ sudo php5enmod mcrypt
 ```
 
 
-######Cloner le projet
+#####Cloner le projet
 Fork le projet sur Github / Fork the project on Github.
 
 Puis depuis la console :
@@ -36,7 +36,7 @@ $ bash bash/chmod.sh
 $ php app/console doctrine:schema:update --force 
 ```
 
-Le projet est bien installé bravo ᕕ( ͡° ͜ʖ ͡° )ᕗ
+Le projet est bien installé ᕕ( ͡° ͜ʖ ͡° )ᕗ
 
 
 
