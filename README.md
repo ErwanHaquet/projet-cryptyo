@@ -13,11 +13,18 @@ Pour décrypter le message, nous avons prévu d'envoyer un mail avec un sel (mot
 
 ##Installation
 
-Requis / Require : 
+######Requis / Require :
 
 * [Installer composer](https://getcomposer.org/download/)
 
+* Installer PHP MCRYPT
+``` shell
+$ sudo apt-get install php5-mcrypt
+$ sudo php5enmod mcrypt
+```
 
+
+######Cloner le projet
 Fork le projet sur Github / Fork the project on Github.
 
 Puis depuis la console :
